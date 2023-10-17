@@ -6,4 +6,4 @@ A desktop flashcard app for language learning created using the Tkinter library 
 
 ## Quiz preview
 
-
+![Quiz preview](assets/flashcard.gif)
